@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ShopShoes</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Mot de passe</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="shoes_image_test">sacai x undercover x nike ldwaffle night maroon</string>
+    <string name="description">Description</string>
+    <string name="image_chaussure">Image de chaussure</string>
+    <string name="icone_caddy">Icone Caddy</string>
+    <string name="icone_home">Icone Home</string>
+    <string name="icone_pay">Icone Pay</string>
+    <string name="catchphrase">Alors, on repart avec quelle paire aujourd\'hui ?</string>
+    <string name="num_cb">N° de carte bancaire</string>
+    <string name="cryptogramme">Cryptogramme</string>
+    <string name="pay">Procéder au paiement</string>
+    <string name="expiration_date">31/01</string>
+    <string name="expiration">Date d\'expiration</string>
+    <string name="cryptogramme_visuel">Cryptogramme visuel</string>
+    <string name="crypto_123">123</string>
+    <string name="n_de_carte_16_chiffres">N° de carte (16 chiffres)</string>
+    <string name="menu">Menu</string>
+    <string name="mon_panier">Mon panier</string>
+    <string name="profil">Profil</string>
+    <string name="proceed_payment">Procéder au paiement</string>
+    <string name="sign_out">Se déconnecter</string>
+    <string-array name="numbers">
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"5"</item>
+        <item>"6"</item>
+        <item>"7"</item>
+        <item>"8"</item>
+        <item>"9"</item>
+    </string-array>
+</resources>
